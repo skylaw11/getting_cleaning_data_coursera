@@ -96,7 +96,7 @@ The mean and std of the filtered data were categorized into two measurements. Th
 
 ## File Source
 The file was downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip from coursera- Getting and Cleaning data Course Project
-## Tdying of data file method
+## Tidying of data file method
 Merges the training and the test sets to create one data set.
 Extracts only the measurements on the mean and standard deviation for each measurement.
 Uses descriptive activity names to name the activities in the data set
